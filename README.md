@@ -1,1 +1,1 @@
-My C readme file
+arrays and pointers readme file
