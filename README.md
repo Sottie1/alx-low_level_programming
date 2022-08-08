@@ -27,6 +27,13 @@ scripting. The specific list of projects contained follows:
 * [0x0D. C - Preprocessor](./0x0D-preprocessor)
 * [0x0E. C - Structures_Typedef](./0x0E-structures_typedef)
 * [0x0F. C - Function_Pointers](./0x0F-function_pointers)
+* [0x10-variadic_functions](./0x10-variadic_functions)
+* [0x12-singly_linked_lists](./0x12-singly_linked_lists)
+* [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
+* [0x14-bit_manipulation](./0x14-bit_manipulation)
+* [0x15-file_io](./0x15-file_io)
+* [0x1A-hash_tables](./0x1A-hash_tables)
+
 
 
 
