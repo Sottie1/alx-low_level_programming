@@ -27,6 +27,13 @@ scripting. The specific list of projects contained follows:
 * [0x0D. C - Preprocessor](./0x0D-preprocessor)
 * [0x0E. C - Structures_Typedef](./0x0E-structures_typedef)
 * [0x0F. C - Function_Pointers](./0x0F-function_pointers)
+* [0x10-variadic_functions](./0x10-variadic_functions)
+* [0x12-singly_linked_lists](./0x12-singly_linked_lists)
+* [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
+* [0x14-bit_manipulation](./0x14-bit_manipulation)
+* [0x15-file_io](./0x15-file_io)
+* [0x1A-hash_tables](./0x1A-hash_tables)
+
 
 
 
@@ -44,7 +51,6 @@ using project-based peer learning. For more information, visit
 [this link](https://www.alxafrica.com//).
 
 <p align="center">
-  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
-       alt="ALX Afroca Logo"
-  >
+  <img src = "https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="ALX Africa Logo">
+  
 </p>
