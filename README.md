@@ -33,6 +33,8 @@ scripting. The specific list of projects contained follows:
 * [0x14-bit_manipulation](./0x14-bit_manipulation)
 * [0x15-file_io](./0x15-file_io)
 * [0x1A-hash_tables](./0x1A-hash_tables)
+* [0x1C-makefiles](./0x1C-makefiles)
+* [0x1E-search_algorithms](./0x1E-search_algorithms)
 
 
 
